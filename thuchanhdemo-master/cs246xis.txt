@@ -1,0 +1,14 @@
+Thời gian ghi: 2025-02-23 09:40:20
+phép Cộng: 3.0
+phép trừ : -1.0
+phép nhân: 2.0
+Lập phương: 1.0 và 8.0
+
+Thời gian ghi: 2025-02-23 09:41:24
+phép Cộng: 3.0
+phép trừ : -1.0
+phép nhân: 2.0
+Lập phương: 1.0 và 8.0
+sang hệ bát phân: 1 và 2
+ sang hệ nhị phân : 1 và 110
+

@@ -1,0 +1,9 @@
+phép Cộng: 3.0
+phép trừ : -1.0
+phép chia: 0.25
+phép nhân: 4.0
+
+Thời gian ghi: 2025-02-23 09:36:18
+phép Cộng: 3.0
+phép trừ : -1.0
+
